@@ -954,7 +954,7 @@ html, body {
   gap: 1em;
 }
 .footer__body .col__social-img img {
-  width: 90px;
+  min-width: 90px;
   height: 90px;
   border-radius: 15px;
 }
