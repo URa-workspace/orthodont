@@ -6,13 +6,13 @@
   margin-top: 0;
   padding: 0;
   height: 100%;
-  background: url(./../img/bg/home_bg_1.png);
+  background: url(https://ura-workspace.github.io/orthodont/img/bg/home_bg_1.png);
   border-radius: 60px;
   position: relative;
 }
 @media screen and (max-width: 768px) {
   .home-bunner {
-    background: url(./../img/bg/home_bg_mob.png);
+    background: url(https://ura-workspace.github.io/orthodont/img/bg/home_bg_mob.png);
     border-radius: 30px;
   }
 }
@@ -501,7 +501,7 @@
 
 .section-main {
   margin-top: 0;
-  background: url(./../img/bg/pattern_shape_1.png) right/contain no-repeat;
+  background: url(https://ura-workspace.github.io/orthodont/img/bg/pattern_shape_1.png) right/contain no-repeat;
 }
 @media screen and (max-width: 992px) {
   .section-main {
@@ -715,7 +715,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: url(./../../img/bg/service_card_bg.png) right/contain no-repeat #ffffff;
+  background: url(https://ura-workspace.github.io/orthodont/img/bg/service_card_bg.png) right/contain no-repeat #ffffff;
   border-radius: 20px;
   transform: scaleX(1);
   transition: var(--transition-hover);
@@ -733,25 +733,25 @@
   transform: scaleX(0);
 }
 .grid-services__card[data-service="Керамічні брекети"] {
-  background: url(./../img/services/keramichni-brekety.png);
+  background: url(https://ura-workspace.github.io/orthodont/img/services/keramichni-brekety.png);
 }
 .grid-services__card[data-service="Металеві брекети"] {
-  background: url(./../img/services/metalevi-brekety.png);
+  background: url(https://ura-workspace.github.io/orthodont/img/services/metalevi-brekety.png);
 }
 .grid-services__card[data-service="Сапфірові брекети"] {
-  background: url(./../img/services/sapfirovi-brekety.png);
+  background: url(https://ura-workspace.github.io/orthodont/img/services/sapfirovi-brekety.png);
 }
 .grid-services__card[data-service="Самолігуючі брекети"] {
-  background: url(./../img/services/samoligujuchi-brekety.png);
+  background: url(https://ura-workspace.github.io/orthodont/img/services/samoligujuchi-brekety.png);
 }
 .grid-services__card[data-service="Лінгвальні брекети"] {
-  background: url(./../img/services/lingvalni-brekety.png);
+  background: url(https://ura-workspace.github.io/orthodont/img/services/lingvalni-brekety.png);
 }
 .grid-services__card[data-service=Елайнери] {
-  background: url(./../img/services/elainery.png);
+  background: url(https://ura-workspace.github.io/orthodont/img/services/elainery.png);
 }
 .grid-services__card[data-service="Знімні апарати"] {
-  background: url(./../img/services/znimni-aparaty.png);
+  background: url(https://ura-workspace.github.io/orthodont/img/services/znimni-aparaty.png);
 }
 .grid-services__card-content {
   width: 100%;
@@ -804,7 +804,7 @@
 }
 
 .section-colorized {
-  background: url(./../img/bg/cta_bg_4.jpg) center/cover no-repeat;
+  background: url(https://ura-workspace.github.io/orthodont/img/bg/cta_bg_4.jpg) center/cover no-repeat;
   position: relative;
   margin-top: 0;
 }
@@ -841,7 +841,7 @@
   }
 }
 .section-colorized--faq {
-  background: url(./../../img/bg/testi_bg_5.jpg) center/cover no-repeat;
+  background: url(https://ura-workspace.github.io/orthodont/img/bg/testi_bg_5.jpg) center/cover no-repeat;
 }
 
 .img-absolute-right {
@@ -997,7 +997,7 @@
 }
 
 .section-shedule {
-  background: url(./../../img/bg/process_bg_1.jpg) var(--smoke-color);
+  background: url(https://ura-workspace.github.io/orthodont/img/bg/process_bg_1.jpg) var(--smoke-color);
 }
 .section-shedule__row {
   align-items: stretch;
